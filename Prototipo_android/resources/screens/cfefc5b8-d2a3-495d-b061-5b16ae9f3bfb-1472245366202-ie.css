@@ -1,0 +1,14 @@
+#s-cfefc5b8-d2a3-495d-b061-5b16ae9f3bfb #s-lock-screen {
+  -ms-transform: rotate(0.0deg);
+}
+#jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+#s-cfefc5b8-d2a3-495d-b061-5b16ae9f3bfb > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
